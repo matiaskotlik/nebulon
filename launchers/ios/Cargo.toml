@@ -14,4 +14,4 @@ resources = ["assets/", "static/"]
 game = { path = "../.." }
 bevy = "0.10.1"
 image = "0.24.5"
-winit = "0.27.5"
+winit = "0.30.0"
