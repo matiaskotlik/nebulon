@@ -24,7 +24,7 @@ lto = true
 [dependencies]
 bevy = "0.10.1"
 bevy_egui = "0.20.3"
-image = "0.24.5"
+image = "0.25.0"
 winit = "0.28.1"
 bevy_pancam = { version = "0.8.0" }
 rand = "0.8.5"
