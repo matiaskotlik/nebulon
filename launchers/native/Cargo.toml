@@ -7,5 +7,5 @@ workspace = "../.."
 [dependencies]
 game = { path = "../.." }
 bevy = "0.10.1"
-image = "0.24.5"
+image = "0.25.0"
 winit = "0.28.1"
