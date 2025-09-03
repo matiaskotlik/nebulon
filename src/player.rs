@@ -103,7 +103,7 @@ fn setup(
             },
         ),
         Transform::from_scale(Vec3::splat(SPRITE_SCALE_FACTOR as f32))
-            .with_translation(vec3(0.0, 0.0, 2.0)),
+            .with_translation(vec3(0.0, 0.0, 100.0)),
         Player,
         AnimationTimer(Timer::from_seconds(
             PLAYER_ANIMATION_INTERVAL,

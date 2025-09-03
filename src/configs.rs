@@ -23,8 +23,8 @@ pub const CHUNK_W: usize = 120;
 pub const CHUNK_H: usize = 100;
 
 // Player
-pub const PLAYER_SPEED: f32 = 1.0;
-pub const PLAYER_FISH_SPEED: f32 = 1.5;
+pub const PLAYER_SPEED: f32 = 20.0;
+pub const PLAYER_FISH_SPEED: f32 = 20.0;
 pub const PLAYER_ANIMATION_INTERVAL: f32 = 0.1;
 pub const WALK_TRAIL_TIMER: f32 = 1.2;
 pub const TRAIL_LIFE_SPAN: f32 = 5.0;
